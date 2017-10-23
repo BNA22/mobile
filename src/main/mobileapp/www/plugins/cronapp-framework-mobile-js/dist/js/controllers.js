@@ -1,0 +1,1 @@
+!function(t){angular.module("custom.controllers",[]),app.controller("HomeController",["$scope","$http","$rootScope","$state","$translate","Notification",function(t,o,e,n,r,p){e.http=o,app.registerEventsCronapi(t,r);for(var a in app.userEvents)t[a]=app.userEvents[a].bind(t);t.message={}}])}(app);

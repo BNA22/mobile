@@ -1,0 +1,28 @@
+{
+  "name": "cronapi-js",
+  "version": "0.0.41-staging",
+  "homepage": "https://github.com/technecloud/cronapi-js",
+  "authors": [
+    "Cronapp <suporte@cronapp.io>"
+  ],
+  "description": "Public library for CronApp's users",
+  "main": "cronapi.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "0.0.41-staging",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.0.41-staging",
+    "commit": "ddcc760a1d6daf62690c12b4e1af9d97f2130776"
+  },
+  "_source": "https://github.com/technecloud/cronapi-js.git",
+  "_target": "0.0.41-staging",
+  "_originalSource": "cronapi-js",
+  "_direct": true
+}
